@@ -25,6 +25,6 @@
     "webpack-modules": "^1.0.0"
   },
   "engines": {
-    "node": "12.16.x"
+    "node": "12.x.x"
   }
 }
