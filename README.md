@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sapper-template
 
 The default template for setting up a [Sapper](https://github.com/sveltejs/sapper) project. Can use either Rollup or webpack as bundler.
@@ -150,3 +151,7 @@ npm install -D @sveltejs/svelte-virtual-list
 ## Bugs and feedback
 
 Sapper is in early development, and may have the odd rough edge here and there. Please be vocal over on the [Sapper issue tracker](https://github.com/sveltejs/sapper/issues).
+=======
+# myblog
+My blog powered by Svelte
+>>>>>>> 787728ec2e5f14155a743bae8c3cf45986aef378
