@@ -55,7 +55,7 @@
   <div class="Header-container">
     <div class="Header-content">
       <div class="Header-logo">
-        <img src="Header.png" alt="Logo">
+        <img src="https://futuromdrss.s3-us-west-1.amazonaws.com/HeaderMesa+de+trabajo+1.png" alt="Logo">
         <h1>Jesus Reynoso Sarmiento</h1>
           <span>MD & Data Scientist</span>
       </div>
