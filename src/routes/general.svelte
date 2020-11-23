@@ -39,7 +39,7 @@
 	<meta name="og:site_name" content="FuturoMedico" />
 	<meta name="og:locale" content="es_ES" />
 	<meta name="og:type" content="article" />
-	<meta name="fb:app_id" content="" />
+	<meta name="fb:app_id" content="681944209173500" />
 
 </svelte:head>
 
