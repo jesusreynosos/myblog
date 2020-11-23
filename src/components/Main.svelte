@@ -1,6 +1,7 @@
 <script>
   	import Sidebar from './Sidebar.svelte';
 </script>
+
 <style>
   .Main-container {
     display: grid;

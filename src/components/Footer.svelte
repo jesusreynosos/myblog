@@ -30,7 +30,7 @@
   <div class="Footer-container">
     <div class="Footer-content">
       <div class="Footer-copy">
-        Striving for excellence from Mexico.
+        Jesus David Emiliano (C) 2020.
       </div>
       <div class="Footer-svelte">
         Powered by Svelte
