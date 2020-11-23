@@ -55,6 +55,7 @@
   <div class="Header-container">
     <div class="Header-content">
       <div class="Header-logo">
+        <img src="Header.png" alt="Logo">
         <h1>Jesus Reynoso Sarmiento</h1>
           <span>MD & Data Scientist</span>
       </div>
