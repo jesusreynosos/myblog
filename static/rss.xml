@@ -21,11 +21,35 @@
       FuturoMedico
     </generator>
     <lastBuildDate>
-      Mon, 23 Nov 2020 11:00:28 GMT
+      Mon, 23 Nov 2020 19:47:17 GMT
     </lastBuildDate>
     <atom: link href="&{blogUrl}/rss.xml" rel="self" type="application/rss+xml" />
     <ttl>60</ttl>
     
+      <item>
+        <title>
+        <![CDATA[El miedo al 'qué dirán'.]]>
+        </title>
+        <link>
+          https://futuromedi.co/blog/el-miedo-al-que-diran/
+        </link>
+        <description>
+          <![CDATA[La medicina es un entorno tóxico, actuemos para cambiarlo.]]>
+        </description>
+        <category>
+          <![CDATA[null]]>
+        </category>
+        <dc:creator>
+          <![CDATA[Futuromedico]]>
+        </dc:creator>
+        <pubDate>
+          Mon, 23 Nov 2020 19:25:45 GMT
+        </pubDate>
+        <media:content url="https://futuromdrss.s3-us-west-1.amazonaws.com/RSS1Mesa+de+trabajo+1%402x.png" medium="image" />
+        <content:encoded>
+          <![CDATA[<p>De seguro has vivido esto. Vas cruzando un pasillo o llegas a una sala en tu escuela y escuchas hablar a un grupo de personas 'echando chisme' sobre otra.</p><blockquote>-¿Viste que Karen y Luis se fueron a una guardia al Hospital del Sur?</blockquote><blockquote>-De seguro nadamás para sacarle más puntos a la Doctora porque no saben hacer nada.</blockquote><p>En el mundo de los estudiantes y residentes de medicina <strong>todo </strong>está regido por las redes sociales. </p><p>Que si Rodrigo ya subió su foto en quirófano a su perfil de Twitter, que si Ana subió una foto en Instagram con su café de Starbucks en la biblioteca, que si Pedro ganó el concurso de mejor instructor en Facebook.</p><p>Somos seres sociales y esto es algo normal. Sin embargo, en vez de apoyar estos pequeños sucesos en la vida de los demás existe una gran cantidad de crítica (o 'chismes') que se hace debido a los mismos.</p><p>Debido a esto muchas veces seguimos las conductas que nos mantienen en una línea de '<strong>esto es lo que se debe hacer porque todos lo hacen</strong>' como presentar el nacional. </p><blockquote>¿Cómo no vas a presentar el examen, qué van a decir de ti?</blockquote><blockquote>¿Por qué quieres hacer medicina preventiva? ¿Quieres ser pobre?</blockquote><blockquote>¿No publicaste nada en la carrera, crees que así te van a aceptar a una maestría?</blockquote><p>Muchos ejemplos así existen de "amistades" tóxicas en la carrera. Aceptemos que esto está mal y actuemos en consecuencia. Si conoces a alguien que está intentando hacer las cosas distinto en vez de criticarlo, pregunta en qué le puedes ayudar. </p><p>Si tú eres alguien que quiere hacer las cosas distintas, hazlo. No cedas al 'qué dirán' pues muchas veces posponemos nuestra felicidad propia por encajar en un grupo de 'amigos'.</p>]]>
+        </content:encoded>
+    </item>
       <item>
         <title>
         <![CDATA[Nacimiento de 'Futuromédico']]>
