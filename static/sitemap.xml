@@ -1,0 +1,15 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>https://futuromedi.co</loc>
+      <lastmod>Mon, 23 Nov 2020 08:48:01 GMT</lastmod>
+      <priority>1.0</priority>
+    </url>
+    <url>
+    <loc>https://futuromedi.co/blog/primer-blogpost</loc>
+    <lastmod>Fri, 20 Nov 2020 16:51:55 GMT</lastmod>
+    <priority>0.80</priority>
+  </url>
+  </urlset> 
+  

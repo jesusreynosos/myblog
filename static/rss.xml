@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <rss version="2.0">
+  
+  <channel>
+    <title>
+      <![CDATA[Futuromedico]]>
+    </title>
+    <description>
+      <![CDATA[Blog de innovación en medicina]]
+    </description>
+    <image>
+      <url>favicon.png</url>
+    </image>
+    <title>
+      <![CDATA[Futuromedico]]
+    </title>
+    <link>
+      https://futuromedi.co
+    </link>
+    <generator>
+      FuturoMedico
+    </generator>
+    <lastBuildDate>
+      Mon, 23 Nov 2020 08:48:01 GMT
+    </lastBuildDate>
+    <atom: link href="&{blogUrl}/rss.xml" rel="self" type="application/rss+xml" />
+    <ttl>60</ttl>
+    
+      <item>
+        <title>
+        <![CDATA[Nacimiento de 'Futuromédico']]>
+        </title>
+        <link>
+          https://futuromedi.co/blog/primer-blogpost/
+        </link>
+        <description>
+          <![CDATA[Bienvenida a Futuromédico. Por qué y para qué existe esta página.]]>
+        </description>
+        <category>
+          <![CDATA[General]]>
+        </category>
+        <dc:creator>
+          <![CDATA[Futuromedico]]>
+        </dc:creator>
+        <pubDate>
+          Fri, 20 Nov 2020 16:51:55 GMT
+        </pubDate>
+        <media:content url="https://futuromdrss.s3-us-west-1.amazonaws.com/RSS1Mesa+de+trabajo+1%402x.png" medium="image" />
+        <content:encoded>
+          <![CDATA[<p>Hola, soy Jesús David Emiliano. </p><p>Sí, tengo 3 nombres. Pero eso no es lo importante. Lo importante es que hoy nace Futuromedi.co: el blog donde pienso escribir sobre actualidades y tendencias en medicina, las distintas opciones de trabajo para un médico y mis puntos de vista en temas de educación y posgrados.</p><p>Si tú eres alguien a quien le interesa su futuro en éste ámbito o estás en la carrera de medicina y no sabes qué hay para ti más allá de las especialidades y subespecialidades, estás en el lugar correcto.</p><p>Aún tengo mucho que actualizar. Este sitio lo hice yo (con ayuda de varios cursos). Así que te pido que me tengas paciencia y estés pendiente para futuras actualizaciones.</p><p>Te dejo mis datos de contacto:</p><p>Correo: <a href="mailto:rjsd13@gmail.com">rjsd13@gmail.com</a></p><p>Twitter: @<a href="https://twitter.com/jdemiliano">jdemiliano</a></p><p>LinkedIn: <a href="https://www.linkedin.com/in/jesusdavidemiliano">jesusdavidemiliano</a></p><p>Si quieres saber más de mi, visita mi página web: jesusdavidemiliano.com</p><p></p><p></p>]]>
+        </content:encoded>
+    </item>
+  </channel>
+  </rss>
