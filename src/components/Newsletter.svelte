@@ -66,7 +66,7 @@
 
 <div class="Newsletter">
   <h4>NEWSLETTER</h4>
-  <p>Recibe las últimas novedades sobre la innovación en salud en tu correo</p>
+  <p>Recibe un newsletter mensual sobre mis tips en educación en medicina a tu correo</p>
   <form 
   action="https://tinyletter.com/jesusreynoso" 
   method="post" 
@@ -82,7 +82,7 @@
     <input type="hidden" value="1" name="embed"/>
     <button class="btn" type="submit" value="Subscribe">Suscribirse</button>
   </form>
-  <p>No enviamos spam.</p>
+  <p>No envio spam. :)</p>
 </div>
 
 

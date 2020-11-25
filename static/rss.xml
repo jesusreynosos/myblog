@@ -6,10 +6,10 @@
       <![CDATA[Futuromedico]]>
     </title>
     <description>
-      <![CDATA[Blog de innovación en medicina]]
+      <![CDATA[Blog de educación en medicina]]
     </description>
     <image>
-      <url>favicon.png</url>
+      <url>https://futuromdrss.s3-us-west-1.amazonaws.com/favicon.png</url>
     </image>
     <title>
       <![CDATA[Futuromedico]]
@@ -21,7 +21,7 @@
       FuturoMedico
     </generator>
     <lastBuildDate>
-      Tue, 24 Nov 2020 20:25:23 GMT
+      Wed, 25 Nov 2020 23:23:25 GMT
     </lastBuildDate>
     <atom: link href="&{blogUrl}/rss.xml" rel="self" type="application/rss+xml" />
     <ttl>60</ttl>

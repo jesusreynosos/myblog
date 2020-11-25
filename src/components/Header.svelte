@@ -49,7 +49,7 @@
     <div class="Header-content">
       <div class="Header-logo">
         <img src="https://futuromdrss.s3-us-west-1.amazonaws.com/HeaderMesa+de+trabajo+1.png" alt="Logo">
-        <h2>Blog de innovación en medicina</h2>
+        <h2>Blog de educación en medicina</h2>
       </div>
       <div class="Header-social">
         <ul>
