@@ -57,7 +57,7 @@
             <a href="https://www.linkedin.com/in/jesusdavidemiliano" target="_blank" rel="noreferrer" on:click={analyticsTracking('linkedin')}>
               <img src="linkedin-icon.png" alt="LinkedIn">
             </a>
-            <a href="https://twitter.com/jesusreynoso_" target="_blank" rel="noreferrer" on:click={analyticsTracking('twitter')}>
+            <a href="https://twitter.com/jdemiliano" target="_blank" rel="noreferrer" on:click={analyticsTracking('twitter')}>
               <img src="twitter-icon.png" alt="Twitter">
             </a>
             <a href="https://github.com/jesusreynosos" target="_blank" rel="noreferrer" on:click={analyticsTracking('github')}>
