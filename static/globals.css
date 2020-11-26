@@ -5,6 +5,10 @@ body {
 	line-height: 1.5;
 	color: #333;
 }
+body.dark-mode {
+  background-color: #1d3040;
+  color: white;
+}
 
 h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 0.5em 0;
@@ -27,6 +31,11 @@ code {
   background-color: #f0f0f0;
   padding: 0.2em 0.4em;
   border-radius: 2px;
+}
+
+.content dark-mode {
+  background-color: #1d3040;
+  color: white;
 }
 
 .content p {

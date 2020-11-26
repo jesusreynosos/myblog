@@ -1,5 +1,6 @@
 <script>
 	export let segment;
+	import Button from './Button.svelte'
 </script>
 
 <style>
@@ -20,6 +21,10 @@
 	.Nav-content {
 		display: flex;
 		justify-content: space-between;
+	}
+	.Button {
+		display: flex;
+		align-items: center;
 	}
 
 	ul {
@@ -79,6 +84,11 @@
 					<li><a rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="blog">blog</a></li>
 				</ul>
 			</div>
+			<div class="Button">
+				<Button>
+					Modo nocturno, NO TOCAR
+				</Button>
+				</div>
 		</div>
 	</div>
 </nav>
