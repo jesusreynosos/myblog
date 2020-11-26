@@ -21,11 +21,56 @@
       FuturoMedico
     </generator>
     <lastBuildDate>
-      Thu, 26 Nov 2020 02:33:56 GMT
+      Thu, 26 Nov 2020 19:31:31 GMT
     </lastBuildDate>
     <atom: link href="&{blogUrl}/rss.xml" rel="self" type="application/rss+xml" />
     <ttl>60</ttl>
     
+      <item>
+        <title>
+        <![CDATA[Reseña de libro: When breath becomes air.]]>
+        </title>
+        <link>
+          https://futuromedi.co/blog/when-breath-becomes-air/
+        </link>
+        <description>
+          <![CDATA[Magnífico libro, que cambiará la forma en que vez la relación médico-paciente.]]>
+        </description>
+        <category>
+          <![CDATA[null]]>
+        </category>
+        <dc:creator>
+          <![CDATA[Futuromedico]]>
+        </dc:creator>
+        <pubDate>
+          Thu, 26 Nov 2020 18:44:56 GMT
+        </pubDate>
+        <media:content url="https://futuromdrss.s3-us-west-1.amazonaws.com/RSS1Mesa+de+trabajo+1%402x.png" medium="image" />
+        <content:encoded>
+          <![CDATA[<p>Bienvenido a una nueva sección en la que iré reseñando los libros que voy leyendo de manera esporádica.</p><p>En esta ocasión, traigo a colación este libro que llevaba ya tiempo queriendo leer. Con cada libro, responderé 5 preguntas que me ayudarán a recordar sus enseñanzas mejor.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://futuromedico.herokuapp.com/content/images/2020/11/imagen_2020-11-26_124707.png" class="kg-image" alt srcset="https://futuromedico.herokuapp.com/content/images/size/w600/2020/11/imagen_2020-11-26_124707.png 600w, https://futuromedico.herokuapp.com/content/images/size/w1000/2020/11/imagen_2020-11-26_124707.png 1000w, https://futuromedico.herokuapp.com/content/images/2020/11/imagen_2020-11-26_124707.png 1576w" sizes="(min-width: 720px) 720px"><figcaption>Portada de libro</figcaption></figure><!--kg-card-begin: markdown--><h3 id="cmodescubristeellibro">¿Cómo descubriste el libro?</h3>
+<p>Lo vi recomendado en Reddit y en varios podcasts sobre medicina.</p>
+<h3 id="quindeberaleerlo">¿Quién debería leerlo?</h3>
+<p>Todos. En especial los que estén en el área de la salud.</p>
+<h3 id="cmoseresumeellibroentresoraciones">¿Cómo se resume el libro en tres oraciones?</h3>
+<ul>
+<li>Valora lo que tienes</li>
+<li>Valora a cada uno de tus pacientes</li>
+<li>No des las cosas por hecho</li>
+</ul>
+<h3 id="cmotecambiellibroentuvidacomportamientopensamientosideasquehancambiadocomoresultadodeleerellibro">¿Cómo te cambió el libro? (En tu vida, comportamiento, pensamientos, ideas que han cambiado como resultado de leer el libro)</h3>
+<p>Valoro más cada conversación que tengo con los pacientes. Me doy más tiempo para escucharlos acerca de sus miedos y preocupaciones.</p>
+<h3 id="culessontustrescitasprincipales">¿Cuáles son tus tres citas principales?</h3>
+<blockquote>
+<p>&quot;Whether out of dignity or shock, silence usually reigns, and so holding a patient's hand becomes the mode of communication.&quot;<br>
+&quot;And as I sat there, I realized that the questions intersecting life, death and meaning, questions that all people face at some point, usually arise in a medical context.&quot;<br>
+&quot;When there's no place for the scalpel, words are the surgeon's only tool.&quot;</p>
+</blockquote>
+<p>Es un libro que ha cambiado mi relación con los pacientes con quienes tengo contacto. En verdad. Vale la pena leerlo.</p>
+<p>Aquí te dejo un link, si deseas adquirirlo:<br>
+<a href="https://www.amazon.com/gp/product/081298840X/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=081298840X&amp;linkCode=as2&amp;tag=futuromedico-20&amp;linkId=b5320c04de9559330bf77f3661c8a197"><img src="https://futuromdrss.s3-us-west-1.amazonaws.com/AmazonlinkMesa+de+trabajo+1.png" alt="Amazon Link"></a></p>
+<!--kg-card-end: markdown-->]]>
+        </content:encoded>
+    </item>
       <item>
         <title>
         <![CDATA[Conocerse es la mejor opción para triunfar.]]>
