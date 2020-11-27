@@ -24,7 +24,7 @@
          padding: 0;
      }
    .Post-title p {
-         color: #333;
+         color: #43697f;
          font-size: 13px;
          font-weight: 300;
          margin-top: 5px;
@@ -32,10 +32,10 @@
      }
     a {
          text-decoration: none;
-         color: #22215b;
+         color: #679ebd;
      }
     .Post-desc p {
-         color:#333;
+         color:rgb(97, 97, 97);
          font-size: 16px;
          line-height: 28px;
          margin: 0 auto;

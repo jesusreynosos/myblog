@@ -1,6 +1,6 @@
 <script>
 	export let segment;
-	import Button from './Button.svelte'
+	import Toggle from './Toggle.svelte';
 </script>
 
 <style>
@@ -21,10 +21,6 @@
 	.Nav-content {
 		display: flex;
 		justify-content: space-between;
-	}
-	.Button {
-		display: flex;
-		align-items: center;
 	}
 
 	ul {
@@ -70,6 +66,7 @@
 	a:hover {
 		color: rgba(25, 26, 34, 1);
 	}
+
 </style>
 
 <nav class="Nav">
@@ -84,10 +81,8 @@
 					<li><a rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="blog">blog</a></li>
 				</ul>
 			</div>
-			<div class="Button">
-				<Button>
-					Modo nocturno, NO TOCAR
-				</Button>
+			<div class="Toggle">
+				<Toggle />
 				</div>
 		</div>
 	</div>

@@ -24,7 +24,7 @@
 
 	p {
 		font-weight: 300;
-		color: #333;
+		color: rgb(97, 97, 97);
 		font-size: 15px;
 		margin-bottom: 10px;
 	}

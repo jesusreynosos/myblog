@@ -36,7 +36,7 @@
 
 <style>
 	h2 { 	
-		color: #22215b;
+		color: #557979;
 		font-size: 28px;
 		margin: 0;
 		padding: 0;
