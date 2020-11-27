@@ -8,8 +8,8 @@
 	.Nav{
 		border-bottom: 1px solid rgba(255,0,121,0.2);
 		font-weight: 300;
-		background-color: #fafbfc;
-		color: #191a22;
+    background-color: #628e85;
+		color: #f3f3f3;
 	}
 
 	.Nav-container {
@@ -65,7 +65,7 @@
 		font-size: 14px;
 		font-weight: 300;
 		transition: all 0.3s ease-in-out 0s;
-		color: rgba(25, 26, 34, 0.7);
+		color: rgba(255, 255, 255, 0.7);
 	}
 	a:hover {
 		color: rgba(25, 26, 34, 1);

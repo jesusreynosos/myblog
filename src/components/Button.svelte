@@ -1,11 +1,15 @@
 <script>
-function toggle() {
-  window.document.body.classList.toggle('dark-mode');
+	function toggle() {
+	window.document.body.classList.toggle('dark-mode');
 }
 </script>
+
+<div class="Button">
 <button on:click={toggle}>
 	<slot/>
 </button>
+</div>
+
 <style>
 	button {
 		background-color: #f76027;

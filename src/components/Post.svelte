@@ -10,38 +10,38 @@
         color: #191a22;
         position: relative;
     }
-    .Post-content{
+  .Post-content{
         font-size: 16px;
         font-weight: 300;
         display: grid;
         justify-content: space-between;
         grid-gap:5px;
         grid-template-columns: 1fr;   
-     }
-     .Post-title{
+    }
+  .Post-title {
          font-size: 20px;
          margin: 0;
          padding: 0;
      }
-     .Post-title p {
+   .Post-title p {
          color: #333;
          font-size: 13px;
          font-weight: 300;
          margin-top: 5px;
          padding: 0;
      }
-     a {
+    a {
          text-decoration: none;
          color: #22215b;
      }
-     .Post-desc p {
+    .Post-desc p {
          color:#333;
          font-size: 16px;
          line-height: 28px;
          margin: 0 auto;
          word-break: break-word;
      }
-     .dot{
+    .dot{
       font-weight: 700;
      }
 </style>
