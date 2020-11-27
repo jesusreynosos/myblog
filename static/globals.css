@@ -33,11 +33,6 @@ code {
   border-radius: 2px;
 }
 
-.content dark-mode {
-  background-color: #1d3040;
-  color: white;
-}
-
 .content p {
   color: #333;
   font-size: 18px;

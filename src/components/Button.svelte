@@ -1,7 +1,6 @@
 <script>
 function toggle() {
-  window.document.body.classList.toggle('dark-mode')
-  window.document.header.classList.toggle('dark-mode')
+  window.document.body.classList.toggle('dark-mode');
 }
 </script>
 <button on:click={toggle}>
