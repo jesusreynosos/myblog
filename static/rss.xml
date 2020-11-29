@@ -21,11 +21,44 @@
       FuturoMedico
     </generator>
     <lastBuildDate>
-      Fri, 27 Nov 2020 09:31:45 GMT
+      Sun, 29 Nov 2020 23:56:32 GMT
     </lastBuildDate>
     <atom: link href="&{blogUrl}/rss.xml" rel="self" type="application/rss+xml" />
     <ttl>60</ttl>
     
+      <item>
+        <title>
+        <![CDATA[La importancia de las extracurriculares]]>
+        </title>
+        <link>
+          https://futuromedi.co/blog/la-importancia-de-las-extracurriculares/
+        </link>
+        <description>
+          <![CDATA[No les ha pasado que se meten demasiado en la escuela que dejan de ver a sus
+compañeros de otras carreras, dejan de practicar la guitarra, de pintar, de
+practicar baile.
+
+Yo era uno de esos. Un 'matadito' o 'gunner' no sé cómo se diga en otros países,
+pero es básicamente alguien que sólo se dedica a estudiar sin hacer nada más.
+
+Todos los días cuando terminaban mis clases me iba a la biblioteca. Si tenía 2
+horas libres, me iba a la biblioteca. Mis amigos saben que si no estaba en algún
+salón, de]]>
+        </description>
+        <category>
+          <![CDATA[null]]>
+        </category>
+        <dc:creator>
+          <![CDATA[Futuromedico]]>
+        </dc:creator>
+        <pubDate>
+          Sun, 29 Nov 2020 23:14:28 GMT
+        </pubDate>
+        <media:content url="https://futuromdrss.s3-us-west-1.amazonaws.com/RSS1Mesa+de+trabajo+1%402x.png" medium="image" />
+        <content:encoded>
+          <![CDATA[<p>No les ha pasado que se meten demasiado en la escuela que dejan de ver a sus compañeros de otras carreras, dejan de practicar la guitarra, de pintar, de practicar baile.</p><p>Yo era uno de esos. Un 'matadito' o 'gunner' no sé cómo se diga en otros países, pero es básicamente alguien que sólo se dedica a estudiar sin hacer nada más.</p><p>Todos los días cuando terminaban mis clases me iba a la biblioteca. Si tenía 2 horas libres, me iba a la biblioteca. Mis amigos saben que si no estaba en algún salón, de seguro estaba en la biblioteca metido en una sala de silencio, leyendo el ipad, subrayando libros una y otra vez.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://futuromedico.herokuapp.com/content/images/2020/11/BBF11136-B18D-42EF-A5E5-0B6A19CC9244-92A15696-2AB8-4080-8AC0-ED2D76DCEE5A.jpg" class="kg-image" alt srcset="https://futuromedico.herokuapp.com/content/images/size/w600/2020/11/BBF11136-B18D-42EF-A5E5-0B6A19CC9244-92A15696-2AB8-4080-8AC0-ED2D76DCEE5A.jpg 600w, https://futuromedico.herokuapp.com/content/images/2020/11/BBF11136-B18D-42EF-A5E5-0B6A19CC9244-92A15696-2AB8-4080-8AC0-ED2D76DCEE5A.jpg 640w"><figcaption>Yo en 3er semestre en la biblioteca central de la BUAP. Era domingo.</figcaption></figure><p>Esto me trajo como resultado que me fuera bien en las calificaciones, pero ahora me arrepiento de no haber aprovechado el tiempo de otras maneras. La universidad es el momento en el que tus responsabilidades son mínimas, el dinero generalmente viene de tus padres (y, generalmente, no necesitas mucho) y la energía que tienes es casi que infinita.</p><p>Ahora que estoy en el servicio social, me he dado a la tarea de retomar las cosas que hacía en la preparatoria: leer libros fuera de medicina, estoy buscando comprar una guitarra y volver a aprenderme canciones que me gustan, esta semana retomo el ejercicio.</p><p>Siempre es bueno tener actividades que te dejen imaginar, experimentar, simplemente despejar la mente. Existe mucha investigación al respecto y la idea principal es que tienes que dedicar un tiempo a la semana a desconectarte de todo. Se los recomiendo. :)</p>]]>
+        </content:encoded>
+    </item>
       <item>
         <title>
         <![CDATA[Reseña de libro: When breath becomes air.]]>
